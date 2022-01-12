@@ -1,0 +1,43 @@
+<html>
+<head>
+    <style>
+        .a{
+            font-size:35px;
+            text-align:left;
+            color: black;
+            padding:10px;
+        }
+        #projects{
+            font-size: 25px;
+            color: rgb(23, 31, 39);
+            padding: 10px;
+        }
+        #skills{
+            font-size: 25px;
+            color: rgb(23, 26, 32);
+            padding: 10px;
+            }
+</style>
+</head>
+<title>Portfolio Page</title>
+<body>
+    <h1 class="a">Vanshika Agarwal</h1>
+    <img src="C:\Users\Nikita Agarwal\Desktop\Sweety\photo.jpg" width="180px" height="180px">
+<section id='skills'>Skills</section>
+<ul>
+    <li id='skills'>Quick learner</li>
+    <li id='skills'>Straightforward</li>
+</ul>
+<section id='projects'>Projects
+<ul>
+<li>Online Quiz System</li>
+<li>Management System</li>
+</ul>
+</section>
+<a href="https://www.linkedin.com/in/vanshika-agarwal-96b18b228">My linkedIn id</a>
+<lable>LinkedIn</lable>
+<input type="email" placeholder= "Enter your ID" >
+<br>
+<a href="https://www.MyProfil.com">Visit MyProfil.com</a>
+</body>
+</html>
