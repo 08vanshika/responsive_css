@@ -30,14 +30,12 @@
 </ul>
 <section id='projects'>Projects
 <ul>
-<li>Online Quiz System</li>
-<li>Management System</li>
+<li>Facebook login page</li>
+<li>Tip calculator</li>
 </ul>
 </section>
 <a href="https://www.linkedin.com/in/vanshika-agarwal-96b18b228">My linkedIn id</a>
 <lable>LinkedIn</lable>
-<input type="email" placeholder= "Enter your ID" >
 <br>
-<a href="https://www.MyProfil.com">Visit MyProfil.com</a>
 </body>
 </html>
